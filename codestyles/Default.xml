@@ -1,9 +1,15 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="1000" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  </HTMLCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="1000" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="WRAP_ON_TYPING" value="1" />

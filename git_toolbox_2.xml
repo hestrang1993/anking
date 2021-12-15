@@ -1,0 +1,11 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="commitDialogGitmojiCompletion" value="true" />
+    <option name="commitDialogGitmojiCompletionUnicode" value="true" />
+    <option name="outdatedBranchesAutoCleanup">
+      <OutdatedBranchesAutoCleanupConfig>
+        <option name="autoCheckEnabled" value="true" />
+      </OutdatedBranchesAutoCleanupConfig>
+    </option>
+  </component>
+</application>
