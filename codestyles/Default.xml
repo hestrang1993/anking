@@ -1,11 +1,16 @@
 <code_scheme name="Default" version="173">
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JSON">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="512" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="512" />
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="csv">
