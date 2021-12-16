@@ -19,7 +19,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="512" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="csv">
